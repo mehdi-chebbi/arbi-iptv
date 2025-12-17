@@ -1,0 +1,29 @@
+{
+  "orders": [
+    {
+      "customerInfo": {
+        "name": "Mgd",
+        "email": "jxns@hd.d",
+        "phone": "Hds",
+        "address": "Jdjsd"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Télécommande Universelle Smart",
+          "description": "Télécommande universelle compatible avec tous les appareils TV et décodeurs, écran tactile LCD",
+          "category": "abonnements",
+          "price": 20,
+          "stock": 10,
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=300&fit=crop",
+          "featured": true,
+          "quantity": 2
+        }
+      ],
+      "total": 40,
+      "id": 1,
+      "date": "2025-12-17T15:19:33.522Z",
+      "status": "en attente"
+    }
+  ]
+}

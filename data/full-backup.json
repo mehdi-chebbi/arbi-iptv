@@ -1,0 +1,162 @@
+{
+  "products": {
+    "products": [
+      {
+        "id": 1,
+        "name": "Télécommande Universelle Smart",
+        "description": "Télécommande universelle compatible avec tous les appareils TV et décodeurs, écran tactile LCDc",
+        "category": "abonnements",
+        "price": 20,
+        "stock": 10,
+        "image": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/t/e/telecommande-universelle-pour-smart-tvs-rm-014s-noir.jpg",
+        "featured": true
+      },
+      {
+        "id": 2,
+        "name": "Télécommande Samsung Original",
+        "description": "Télécommande originale pour Smart TV Samsung, Bluetooth et contrôle vocal",
+        "category": "telecommandes",
+        "price": 20,
+        "stock": 8,
+        "image": "https://i5.walmartimages.com/seo/Universal-Remote-Control-for-Samsung-TV-Remote-All-Samsung-LCD-LED-HDTV-3D-Smart-TVs-Models_0b740b2a-492c-45fd-b703-3b613c19a2ea.5a48deb49b4cde16e73284cd0fa0556e.jpeg",
+        "featured": false
+      },
+      {
+        "id": 3,
+        "name": "Abonnement IPTV Premium 1 Mois",
+        "description": "Accès à plus de 5000 chaînes internationales, HD et 4K, VOD inclus",
+        "category": "abonnements",
+        "price": 25,
+        "stock": 100,
+        "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=300&h=300&fit=crop",
+        "featured": true
+      },
+      {
+        "id": 4,
+        "name": "Abonnement IPTV Premium 1 An",
+        "description": "Abonnement annuel IPTV Premium, économisez 40% par rapport au tarif mensuel",
+        "category": "abonnements",
+        "price": 180,
+        "stock": 50,
+        "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=300&h=300&fit=crop",
+        "featured": true
+      },
+      {
+        "id": 5,
+        "name": "Récepteur IPTV MAG425A",
+        "description": "Boîtier IPTV 4K Ultra HD, WiFi intégré, support HEVC H.265",
+        "category": "recepteurs",
+        "price": 159,
+        "stock": 12,
+        "image": "https://images.unsplash.com/photo-1598928424272-9e667d53e3b5?w=300&h=300&fit=crop",
+        "featured": false
+      },
+      {
+        "id": 6,
+        "name": "Récepteur Android TV Box X96",
+        "description": "Android TV 10.0, 4GB RAM, 64GB ROM, WiFi 6, Bluetooth 5.0",
+        "category": "recepteurs",
+        "price": 225,
+        "stock": 6,
+        "image": "https://images.unsplash.com/photo-1598928424272-9e667d53e3b5?w=300&h=300&fit=crop",
+        "featured": true
+      },
+      {
+        "id": 7,
+        "name": "Câble HDMI 4K 2 mètres",
+        "description": "Câble HDMI haute vitesse 4K@60Hz, Ethernet, HDR compatible",
+        "category": "accessoires",
+        "price": 19.9,
+        "stock": 30,
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=300&h=300&fit=crop",
+        "featured": false
+      },
+      {
+        "id": 8,
+        "name": "Adaptateur WiFi USB pour TV",
+        "description": "Adaptateur WiFi dual band AC1200, compatible avec toutes les Smart TV",
+        "category": "accessoires",
+        "price": 35,
+        "stock": 20,
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=300&h=300&fit=crop",
+        "featured": false
+      },
+      {
+        "id": 9,
+        "name": "Support mural pour TV",
+        "description": "Support mural articulé pour TV 32-75 pouces, inclinaison et rotation",
+        "category": "accessoires",
+        "price": 79,
+        "stock": 10,
+        "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=300&h=300&fit=crop",
+        "featured": false
+      },
+      {
+        "id": 10,
+        "name": "Télécommande Apple TV",
+        "description": "Télécommande originale Apple TV avec Siri Remote, tactile et voix",
+        "category": "telecommandes",
+        "price": 65,
+        "stock": 7,
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=300&fit=crop",
+        "featured": false
+      },
+      {
+        "id": 11,
+        "name": "Abonnement IPTV Familial",
+        "description": "Abonnement IPTV pour 5 écrans simultanés, contenu familial et sport",
+        "category": "abonnements",
+        "price": 45,
+        "stock": 75,
+        "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=300&h=300&fit=crop",
+        "featured": false
+      },
+      {
+        "id": 12,
+        "name": "Mini PC Android TV Stick",
+        "description": "Mini PC Android TV 4K, 2GB RAM, 16GB ROM, portable et plug & play",
+        "category": "recepteurs",
+        "price": 95,
+        "stock": 15,
+        "image": "https://images.unsplash.com/photo-1598928424272-9e667d53e3b5?w=300&h=300&fit=crop",
+        "featured": false
+      }
+    ]
+  },
+  "orders": {
+    "orders": [
+      {
+        "customerInfo": {
+          "name": "Mgd",
+          "email": "jxns@hd.d",
+          "phone": "Hds",
+          "address": "Jdjsd"
+        },
+        "items": [
+          {
+            "id": 1,
+            "name": "Télécommande Universelle Smart",
+            "description": "Télécommande universelle compatible avec tous les appareils TV et décodeurs, écran tactile LCD",
+            "category": "abonnements",
+            "price": 20,
+            "stock": 10,
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=300&fit=crop",
+            "featured": true,
+            "quantity": 2
+          }
+        ],
+        "total": 40,
+        "id": 1,
+        "date": "2025-12-17T15:19:33.522Z",
+        "status": "en attente"
+      }
+    ]
+  },
+  "admin": {
+    "admin": {
+      "username": "admin",
+      "password": "arbi2025"
+    }
+  },
+  "backupDate": "2025-12-17T16:41:22.728Z"
+}
